@@ -1,5 +1,5 @@
 # twitter-NLP-LIGHTGBM
-this dataset is from a Zindi africa hackathon
+
 
 PROBLEM OF STATEMENT
 ML-driven sentiment analysis is an important tool to understand communities’ feelings around major issues such as COVID-19.
